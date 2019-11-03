@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def palindromeRecognizer(str1):
     strRev=''
     str=''
